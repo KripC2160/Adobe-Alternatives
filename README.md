@@ -8,6 +8,23 @@
 - 💵 = Single purchase
 - 🔒 = Subscription for more functions
 
+## **Softwares Alternative To:**
+- [Photoshop](https://github.com/KenneyNL/Adobe-Alternatives#photoshop)
+- [Illustrator](https://github.com/KenneyNL/Adobe-Alternatives#illustrator)
+- [Animate](https://github.com/KenneyNL/Adobe-Alternatives#animate)
+- [InDesign](https://github.com/KenneyNL/Adobe-Alternatives#indesign)
+- [Substance](https://github.com/KenneyNL/Adobe-Alternatives#substance)
+- [Lightroom](https://github.com/KenneyNL/Adobe-Alternatives#lightroom)
+- [XD](https://github.com/KenneyNL/Adobe-Alternatives#xd)
+- [Premier](https://github.com/KenneyNL/Adobe-Alternatives#premier)
+- [Acrobat](https://github.com/KenneyNL/Adobe-Alternatives#acrobat)
+- [Bridge](https://github.com/KenneyNL/Adobe-Alternatives#bridge)
+- [Dreamweaver](https://github.com/KenneyNL/Adobe-Alternatives#dreamweaver)
+- [Audition](https://github.com/KenneyNL/Adobe-Alternatives#audition)
+- [After Effects](https://github.com/KenneyNL/Adobe-Alternatives#after-effects)
+
+---
+
 ## Photoshop
 
 #### Photography
